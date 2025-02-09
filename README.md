@@ -12,3 +12,8 @@ Figma Link : https://www.figma.com/proto/GbKrgYqsEvQC3PMMEOfLhm/Task-2?node-id=1
 Task 3:
 Design a Mobile App for Event Planning 
 https://www.figma.com/proto/hz2KMBXlnXCL7a6rjLTWVp/Task-3?node-id=0-1&t=aWTgt0eU42KXY3Px-1
+
+
+Task 4:
+Design a Mobile App for Fundraiser
+https://www.figma.com/proto/tYlpsfGsbj6Sr0qNoPL4yJ/Task-4?node-id=0-1&t=6J0uisZq3jc7oZ1V-1
